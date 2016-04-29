@@ -1,0 +1,12 @@
+
+
+$(function(){
+	GM.init( function(){} );
+});
+
+
+
+
+
+
+
